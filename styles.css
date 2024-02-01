@@ -1,0 +1,20 @@
+html {
+  font-family: Verdana, sans-serif;
+}
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color:#44382b;
+      font-family: Verdana, sans-serif;
+    font-size:5;
+    color: #AF9980;
+}
+
+div {
+    width: 100vw;
+    height: 100vh;
+}
+h6 {
+  color: #44382b;
+}
